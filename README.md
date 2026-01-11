@@ -26,7 +26,7 @@ String methods (strip, lower, replace)
 ## ▶️ How to Run
 1. Make sure you have Python 3 installed
 2. Clone the repository or download the file
-3. Run the program:
+3. 3. Run the program:
 python contact_book.py
 
 ## 📌 Notes
