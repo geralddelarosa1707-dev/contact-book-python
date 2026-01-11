@@ -1,11 +1,11 @@
 # contact-book-python
 A beginner-friendly CLI Contact Book project built using Python.
 
-📒 Contact Book (Python – Console App)
+## 📒 Contact Book (Python – Console App)
 A simple console-based Contact Book application built using Python.
 This project is made to practice dictionaries, functions, loops, and input validation.
 
-✨ Features
+## ✨ Features
 • Add new contacts (name & number)
 • Prevent duplicate phone numbers
 • Delete existing contacts
@@ -14,7 +14,7 @@ This project is made to practice dictionaries, functions, loops, and input valid
 • Update contact numbers
 • Input validation for names, numbers, and menu options
 
-🛠️ Concepts Used
+## 🛠️ Concepts Used
 • Python dictionaries
 • Functions
 • Loops (while, for)
@@ -23,13 +23,13 @@ This project is made to practice dictionaries, functions, loops, and input valid
 String methods (strip, lower, replace)
 • Basic program structure with main()
 
-▶️ How to Run
+## ▶️ How to Run
 1. Make sure you have Python 3 installed
 2. Clone the repository or download the file
 3. Run the program:
 python contact_book.py
 
-📌 Notes
+## 📌 Notes
 • This is a beginner-level project
 • Data is stored in memory (not saved to a file yet).
 • Future improvements may include:
@@ -37,7 +37,7 @@ python contact_book.py
 - Object-Oriented Programming (OOP)
 - Better search options
 
-🎯 Purpose
+## 🎯 Purpose
 This project was created as part of my learning journey in Python, focusing on:
 • Writing clean and readable code
 • Practicing problem-solving
